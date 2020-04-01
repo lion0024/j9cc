@@ -1,0 +1,5 @@
+*~
+*.o
+tmp*
+j9cc.class
+j9cc
