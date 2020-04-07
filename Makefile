@@ -1,5 +1,5 @@
 DIR=/home/masateruteru/projects/j9cc
-SOURCE=*.java
+SOURCE=j9cc.java
 compile:
 	javac $(DIR)/$(SOURCE)
 
